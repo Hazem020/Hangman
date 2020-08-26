@@ -20,5 +20,5 @@ Best project for Python Basics: uses functions, loops, lists, and other variable
 - [x] [Stage 7: Error!](src/Stage_7/project.py)
 - [x] [Stage 6: Menu, please](src/Stage_8/project.py)
 
-[1]: https://hyperskill.org/projects/68
+[1]: https://hyperskill.org/projects/69
 [2]: https://hyperskill.org/
